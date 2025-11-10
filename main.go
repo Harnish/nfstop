@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	ui "github.com/gizak/termui"
+	ui "github.com/gizak/termui/v3"
 	"github.com/kofemann/nfstop/nfs"
 	"github.com/kofemann/nfstop/sniffer"
 	"github.com/kofemann/nfstop/utils"
